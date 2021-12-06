@@ -1,1 +1,1 @@
-<h2>Multi-user Managment System (Moduler)</h2>
+<h2>Multi-device Managment System (Moduler)</h2>
